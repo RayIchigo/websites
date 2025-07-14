@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <style>
+    body {
+      background-color: lightblue;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    button {
+      background-color: white;
+      border: 2px solid white;
+      color: lightblue;
+      cursor: pointer;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hi</h1>
+  <h2>Who am I?</h2>
+  <p>I'm Ola Habibullah, an Electrical Engineering student at KAU in my third year.</p>
+
+  <button onclick="location.href='http://localhost/secpage.html'">To know more</button>
+
+</body>
+</html>

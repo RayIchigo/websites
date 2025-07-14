@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Second Page</title>
+  <style>
+    body {
+      background-color: lightblue;
+      text-align: center;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+    img {
+      width: 300px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>surprise </h1>
+  <img src="image.jpg" alt="My Image">
+  <p><a href="index.html" style="color: white;">Back to Home</a></p>
+
+</body>
+</html>
